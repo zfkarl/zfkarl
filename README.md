@@ -1,7 +1,16 @@
-## Hi there 👋
+### Hi there 👋
+
+- I’m a CSE PhD student at [CUHK](https://www.cse.cuhk.edu.hk/), supervised by Prof. [Pheng-Ann Heng](https://scholar.google.com/citations?user=OFdytjoAAAAJ&hl=zh-CN).
+- My research interests lie at the intersection of Large Language Models, Multimodal AI, and their applications in scientific problems.
+
+
 
 <!--
-**zfkarl/zfkarl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Cominclip/Cominclip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Cominclip&show_icons=true&theme=swift&hide_title=true" />
 
 Here are some ideas to get you started:
 
