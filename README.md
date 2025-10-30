@@ -1,4 +1,4 @@
-### Hi there 👋
+### About Me
 
 - I’m a CSE PhD student at [CUHK](https://www.cse.cuhk.edu.hk/), supervised by Prof. [Pheng-Ann Heng](https://scholar.google.com/citations?user=OFdytjoAAAAJ&hl=zh-CN).
 - My research interests lie at the intersection of Large Language Models, Multimodal AI, and their applications in scientific problems.
